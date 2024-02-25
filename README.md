@@ -1,5 +1,7 @@
-# Arc és szem detektálás
+# It Betyár - Computer Vision - Számítógépes látás
 
 ### Mesterséges Intelligencia fejlesztő tanfolyamunk Computer vision - gépi látás órai anyagához
 
-Arc és szem detektáló neurális hálóhoz tesztképek
+Tartalom:
+- Tesztképek, arcok. Arc és szem detektáló neurális hálók dolgoztatásához
+- Kód lefutáshoz szükséges fájlok. pl.: xml állományok
